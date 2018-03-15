@@ -23,7 +23,7 @@ Role: The Player's food. Player must to eat all of the cookies in the level to p
 Levels:
 The levels must be in the following Directory: Pacman/Levels and the name must be lvl(number).txt (e.g. lvl1.txt), (number) represent the level number that you want.
 To make your own levels for this game you can use This tool just follow the instructions.
-https://github.com/shriki001/Map-Editor/raw/master/MapEditor.zip
+https://github.com/shriki001/OOP/blob/master/EX4_Map%20Editor/MapEditor.zip
 Otherwise: Inside the .txt file you must give the size of the map in one line e.g. 20 20 for 20X20 map. (the game come with 4 levels by default).
 
 Files:
